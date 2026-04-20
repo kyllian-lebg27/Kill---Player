@@ -1,9 +1,9 @@
 
 
 module.exports = {
-  TOKEN: "",
-  language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  TOKEN: "MTQ5NTc4MDM2MjU3MDMwMTY0Ng.GETIgq.pJxU5pbVXg_BAIR97loq2MSOFuS99MZWNSo9Tg",
+  language: "fr",
+  ownerID: ["1390122526251946005", ""], 
   mongodbUri : "mongodb+srv://ruscicakyllian_db_user:<db_password>@killplayer.zzhstia.mongodb.net/?appName=KillPlayer",
   spotifyClientId : "d92baed9605a45a39ed7c2a2d960b1c1",
   spotifyClientSecret : "e9b29f6739de4315bc03b6d8a8e93b03",
