@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
+  language: "fr",
   ownerID: ["1390122526251946005", ""], 
   mongodbUri : "mongodb+srv://ruscicakyllian_db_user:<db_password>@killplayer.zzhstia.mongodb.net/?appName=KillPlayer",
   spotifyClientId : "d92baed9605a45a39ed7c2a2d960b1c1",
